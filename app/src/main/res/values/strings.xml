@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RelativeLayout_Arya_12RPL</string>
+
+    <string-array name="day">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>01AM</item>
+        <item>02AM</item>
+        <item>03AM</item>
+        <item>04AM</item>
+        <item>05AM</item>
+        <item>06AM</item>
+        <item>07AM</item>
+        <item>08AM</item>
+        <item>09AM</item>
+        <item>10AM</item>
+        <item>11AM</item>
+        <item>12AM</item>
+    </string-array>
+
+</resources>
